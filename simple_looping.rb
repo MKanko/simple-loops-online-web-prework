@@ -53,9 +53,7 @@ def for_iterator(number_of_times)
   end
 end 
   
-  # code your solution here using the "for" keyword
-  # remember that `for` requires a range of numbers. How can we turn our number into a range?
-  # phrase = "Welcome to Flatiron School's Web Development Course!"
+ 
   
 # Code your solution here using the "loop" keyword to puts out the below phrase
   # This and all the other methods take an argument of an integer 
@@ -76,3 +74,5 @@ end
   # code your solution here using the "until" keyword
   # hint: use a counter to tell the until loop when to stop!
   # phrase = "Welcome to Flatiron School's Web Development Course!"
+  
+
