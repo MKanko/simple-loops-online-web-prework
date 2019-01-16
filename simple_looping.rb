@@ -59,6 +59,10 @@ end
 
 
 def for_iterator(number_of_times)
+  print_count = 1..number_of_times
+  
+  for print in print_count
+    puts 
   
   # code your solution here using the "for" keyword
   # remember that `for` requires a range of numbers. How can we turn our number into a range?
